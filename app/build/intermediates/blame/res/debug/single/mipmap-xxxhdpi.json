@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/media/dedie/KULIAH/Project/SaveUs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/media/dedie/KULIAH/Project/SaveUs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

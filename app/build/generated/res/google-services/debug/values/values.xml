@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">413156509262-of41uk70uf7jh5ipj9k9b24kdgsruscc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://saveus-54279.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">413156509262</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8zeVwvZxVnI-dle3mZzLMoR-mcpGiDf0</string>
+    <string name="google_app_id" translatable="false">1:413156509262:android:497e70025b0a5544</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8zeVwvZxVnI-dle3mZzLMoR-mcpGiDf0</string>
+    <string name="google_storage_bucket" translatable="false">saveus-54279.appspot.com</string>
+    <string name="project_id" translatable="false">saveus-54279</string>
+</resources>

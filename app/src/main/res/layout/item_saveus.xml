@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="150dp">
+
+    <TextView
+        android:id="@+id/txtTanggal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Tanggal"
+        android:textSize="20dp" />
+
+
+
+    <TextView
+        android:id="@+id/txtNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtTanggal"
+        android:layout_marginLeft="20dp"
+        android:text="Nama"
+        android:textSize="25dp" />
+    <TextView
+        android:id="@+id/txtKejadian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtNama"
+        android:layout_marginLeft="20dp"
+        android:text="Kejadian"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/txtLat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtKejadian"
+        android:layout_marginLeft="20dp"
+        android:text="Latitude"
+        android:textSize="15dp" />
+    <TextView
+        android:id="@+id/txtLng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLat"
+        android:layout_marginLeft="20dp"
+        android:text="Longitude                              "
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/btnLokasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtKejadian"
+        android:layout_toRightOf="@id/txtLng"
+        android:text="Lihat Lokasi" />
+</RelativeLayout>

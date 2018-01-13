@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:14:5-48:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/cc2c0c85d5532a2bda94a492e05aa79f31a2f13d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/35664a284a7ab53303155ee1286284636c24b19a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/dedie/.android/build-cache/2fd938304240b06c541336c1564e5e706bb7f831/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/dedie/.android/build-cache/c1bdc9b0d110902b945b3498676484d27ed1e121/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/dedie/.android/build-cache/2d03c369400cba31c73d6521839a37bd43e72618/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dedie/.android/build-cache/72323c05134390b6c56c604f38ecfb34c1e2f290/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dedie/.android/build-cache/1af8740678e53a39242c3da747f6f68026bfa0c3/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedie/.android/build-cache/369d4a8a69362825cb00e1a070446e3f458b753f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/b0dfe96599f35eccacd71f5c479bd30aecbc319e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedie/.android/build-cache/1173ef62f756248c83453ffe91280ada4562d71c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedie/.android/build-cache/e64ab71068f1efc4eb2010b2975386fbb3eb4721/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedie/.android/build-cache/87dcc3ff6319f0ceaad200a1c8a3a26a41be126e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/a417eeead52d24902b6b914b804bcc4e84d4feb1/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:20:9-40
+activity#superhumancrew.com.saveus.MainActivity
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:21:9-23:20
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:21:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:33:13-58
+activity#superhumancrew.com.saveus.MapsActivity
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:36:9-38:59
+	android:label
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:37:13-41
+activity#superhumancrew.com.saveus.Lapor
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:39:9-43
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:39:19-40
+activity#superhumancrew.com.saveus.PihakBerwajib
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:40:9-51
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:40:19-48
+activity#superhumancrew.com.saveus.Login
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:41:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/cc2c0c85d5532a2bda94a492e05aa79f31a2f13d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/35664a284a7ab53303155ee1286284636c24b19a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/dedie/.android/build-cache/d9524a4edd8421f34e9fd7ad8327188782ae2423/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/dedie/.android/build-cache/01ee2c251328b0c0ab85222a97fe055bd4fccb46/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/dedie/.android/build-cache/2fd938304240b06c541336c1564e5e706bb7f831/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /home/dedie/.android/build-cache/6b6c2a9a15317e84d2046c5f3e2993e7abb2cd58/output/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/dedie/.android/build-cache/e2dfa1fb81d65147bf54abd76f94b455be4f3d26/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/dedie/.android/build-cache/c1bdc9b0d110902b945b3498676484d27ed1e121/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/dedie/.android/build-cache/2d03c369400cba31c73d6521839a37bd43e72618/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/dedie/.android/build-cache/72323c05134390b6c56c604f38ecfb34c1e2f290/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/dedie/.android/build-cache/1af8740678e53a39242c3da747f6f68026bfa0c3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedie/.android/build-cache/369d4a8a69362825cb00e1a070446e3f458b753f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/b0dfe96599f35eccacd71f5c479bd30aecbc319e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedie/.android/build-cache/1173ef62f756248c83453ffe91280ada4562d71c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedie/.android/build-cache/e64ab71068f1efc4eb2010b2975386fbb3eb4721/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedie/.android/build-cache/87dcc3ff6319f0ceaad200a1c8a3a26a41be126e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/a417eeead52d24902b6b914b804bcc4e84d4feb1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+		INJECTED from /media/dedie/KULIAH/Project/SaveUs/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/cc2c0c85d5532a2bda94a492e05aa79f31a2f13d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedie/.android/build-cache/35664a284a7ab53303155ee1286284636c24b19a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedie/.android/build-cache/369d4a8a69362825cb00e1a070446e3f458b753f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/b0dfe96599f35eccacd71f5c479bd30aecbc319e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedie/.android/build-cache/1173ef62f756248c83453ffe91280ada4562d71c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedie/.android/build-cache/e64ab71068f1efc4eb2010b2975386fbb3eb4721/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedie/.android/build-cache/87dcc3ff6319f0ceaad200a1c8a3a26a41be126e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedie/.android/build-cache/a417eeead52d24902b6b914b804bcc4e84d4feb1/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/dedie/.android/build-cache/a6a8028da2fdeaf597f8f3d4329facdb7c014fac/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/dedie/.android/build-cache/a5375b6a360226362cac403518886bd515f59882/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/dedie/.android/build-cache/363bf99bcca6c68ca4b43d6d0aee632ecf720bfd/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/dedie/.android/build-cache/ac043be206700514a1870e6fa3539931b3d7d851/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/dedie/.android/build-cache/7f176c197f0583e1b72b7ce4d91c2ee3a27ae2a9/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/dedie/.android/build-cache/28e55ba7257a67f52c74a3d22e2a8016355bcc26/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dedie/.android/build-cache/1af8740678e53a39242c3da747f6f68026bfa0c3/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dedie/.android/build-cache/1af8740678e53a39242c3da747f6f68026bfa0c3/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/dedie/.android/build-cache/1af8740678e53a39242c3da747f6f68026bfa0c3/output/AndroidManifest.xml:20:20-65

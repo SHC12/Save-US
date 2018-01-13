@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/dedie/.android/build-cache/6c40f830861394eb0963001719e8453f82663001/output/res/anim/abc_slide_in_top.xml"
+    }
+]

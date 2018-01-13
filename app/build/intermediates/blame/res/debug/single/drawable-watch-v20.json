@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/media/dedie/KULIAH/Project/SaveUs/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/dedie/.android/build-cache/535627dc4d8ec0d55c60c910c59a40fcc93962bd/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

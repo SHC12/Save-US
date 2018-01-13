@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413156509262",
+    "firebase_url": "https://saveus-54279.firebaseio.com",
+    "project_id": "saveus-54279",
+    "storage_bucket": "saveus-54279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413156509262:android:497e70025b0a5544",
+        "android_client_info": {
+          "package_name": "superhumancrew.com.saveus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413156509262-il5u2g4rp23unkc72nnjmnd260b3cr3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "superhumancrew.com.saveus",
+            "certificate_hash": "ef36467956f27c2f5eee87f27c6412303322fcdd"
+          }
+        },
+        {
+          "client_id": "413156509262-of41uk70uf7jh5ipj9k9b24kdgsruscc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zeVwvZxVnI-dle3mZzLMoR-mcpGiDf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413156509262-of41uk70uf7jh5ipj9k9b24kdgsruscc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
